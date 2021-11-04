@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizalachp&show_icons=true&theme=tokyonight&locale=en" alt="rizalachp" />
+  <img style="max-width : 75%;" align="center" src="https://github-readme-stats.vercel.app/api?username=rizalachp&show_icons=true&theme=tokyonight&locale=en" alt="rizalachp" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalachp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rizalachp" />
 </p>
 
