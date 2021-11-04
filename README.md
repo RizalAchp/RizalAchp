@@ -13,10 +13,10 @@
 - ⚡ Fun fact **I think I am funny**
 
 <a href="https://github.com/RizalAchp/RizalAchp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
 </a>
 <a href="https://github.com/RizalAchp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RizalAchp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RizalAchp" />
 </a>
 
 <h3 align="center">Connect with me:</h3>
