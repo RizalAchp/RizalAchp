@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
 </a>
 <a href="https://github.com/RizalAchp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RizalAchp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
 </a>
 
 <h3 align="center">Connect with me:</h3>
