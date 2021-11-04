@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rizal Achmad Pahlevi</h1>
+<h1 align="center">Hi 👋There!</h1>
+
+<a href="https://github.com/RizalAchp/RizalAchp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&hide-border&border_radius=15" alt="RizalAchp" />
+</a>
+<a href="https://github.com/RizalAchp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&hide-border&border_radius=15" alt="RizalAchp" />
+</a>
+
+
+<h1 align="center">I'm Rizal Achmad Pahlevi</h1>
 <h3 align="center">A Student, Linux enthusiast, Amateur, Who's trying to Figure-Out Stuff.</h3>
 
 
@@ -12,12 +22,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<a href="https://github.com/RizalAchp/RizalAchp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
-</a>
-<a href="https://github.com/RizalAchp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
-</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
