@@ -13,8 +13,8 @@
 - ⚡ Fun fact **I think I am funny**
 
 <p align="center">&nbsp;
-  <img style="max-width : 75%;" align="center" src="https://github-readme-stats.vercel.app/api?username=rizalachp&show_icons=true&theme=tokyonight&locale=en" alt="rizalachp" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalachp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rizalachp" />
+  <img style="max-width : 75%;" align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RizalAchp" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
