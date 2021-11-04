@@ -12,16 +12,18 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<p align="center">&nbsp;
-  <img style="max-width : 75%;" align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RizalAchp" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RizalAchp" />
-</p>
+<a href="https://github.com/RizalAchp/RizalAchp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en" alt="RizalAchp" />
+</a>
+<a href="https://github.com/RizalAchp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="RizalAchp" />
+</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/rizal achmad pahlevi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizal achmad pahlevi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rizal-achmad-pahlevi-a89b951b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizal achmad pahlevi" height="30" width="40" /></a>
   <a href="https://instagram.com/rizal_achp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizal_achp" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/achmad rizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="achmad rizal" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/AchmadRizal_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="achmad rizal" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
