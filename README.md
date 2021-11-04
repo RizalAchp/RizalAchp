@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizalachp&show_icons=true&theme=tokyonight&locale=en" alt="rizalachp" /></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rizal achmad pahlevi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizal achmad pahlevi" height="30" width="40" /></a>
@@ -24,6 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizalachp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rizalachp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizalachp&show_icons=true&theme=tokyonight&locale=en" alt="rizalachp" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
