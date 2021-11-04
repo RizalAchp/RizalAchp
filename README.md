@@ -11,6 +11,7 @@
 <h1 align="center">I'm Rizal Achmad Pahlevi</h1>
 <h3 align="center">A Student, Linux enthusiast, Amateur, Who's trying to Figure-Out Stuff.</h3>
 
+---
 
 - 🔭 I’m currently working on **Android 100 Day Challange**
 
