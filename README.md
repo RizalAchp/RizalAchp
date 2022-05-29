@@ -14,15 +14,11 @@
 
 ---
 
-- 🔭 I’m currently working on **Android 100 Day Challange**
+- 🔭 I’m currently working on **Dynotest Gui Application with C++**
 
-- 🌱 I’m currently learning **Laravel, Native Android,**
-
-- 💬 Ask me about **Python, Command Line in Linux**
+- 🌱 I’m currently learning **C++ and Rust**
 
 - 📫 How to reach me **rizal.ahmadp@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 
 <h3 align="center">Connect with me:</h3>
