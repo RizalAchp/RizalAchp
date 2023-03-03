@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋There!</h1>
 
-<a href="https://github.com/RizalAchp/RizalAchp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&hide-border&border_radius=15" alt="RizalAchp" />
-</a>
-<a href="https://github.com/RizalAchp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=tokyonight&locale=en&hide-border&border_radius=15" alt="RizalAchp" />
-</a>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RizalAchp&show_icons=true&hide_border=true" alt="RizalAchp" />
+</picture>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs??username=RizalAchp&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs??username=RizalAchp&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=RizalAchp&show_icons=true&hide_border=true" alt="RizalAchp" />
+</picture>
 
 ---
 
