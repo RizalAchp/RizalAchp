@@ -13,14 +13,14 @@
 </picture>
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs??username=RizalAchp&show_icons=true&theme=dark&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs??username=RizalAchp&show_icons=true&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=RizalAchp&show_icons=true&hide_border=true" alt="RizalAchp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizalAchp&show_icons=true&hide_border=true" alt="RizalAchp" />
 </picture>
 
 ---
